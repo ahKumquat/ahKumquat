@@ -5,6 +5,5 @@
 [![img](https://raw.githubusercontent.com/ahKumquat/ahKumquat/main/assets/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/ahKumquat/ahKumquat/main/assets/github-contribution-grid-snake.svg)
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahKumquat&hide_border=true">
 
 
