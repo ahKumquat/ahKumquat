@@ -5,7 +5,7 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ahKumquat/ahKumquat/main/assets/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/ahKumquat/ahKumquat/main/assets/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
