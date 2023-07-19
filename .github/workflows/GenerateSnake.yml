@@ -22,6 +22,7 @@ jobs:
           outputs: |  
             ./assets/github-contribution-grid-snake.gif
             ./assets/github-contribution-grid-snake.svg
+            ./assets/github-contribution-grid-snake-dark.svg?palette=github-dark
           
 
       - name: Push to GitHub
