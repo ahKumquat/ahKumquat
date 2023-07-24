@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm ahKumquat
 
 ### Current project:
-xv6 in Rust
+xv6 in Rust 🦀️
 
 Simple TCP in C++
 
