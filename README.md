@@ -3,8 +3,6 @@
 ### Current project:
 xv6 in Rust 🦀️
 
-Simple TCP/IP protocol in C++
-
 ### My Contributions
 
 <picture>
