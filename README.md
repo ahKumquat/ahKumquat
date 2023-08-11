@@ -20,5 +20,7 @@ xv6 in Rust 🦀️
   />
 </picture>
 
+### My Skills
+<p align="center"> <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=ahKumquat&show_icons=true&locale=en&layout=compact&theme=algolia" />
 
 
