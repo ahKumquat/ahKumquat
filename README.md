@@ -2,6 +2,7 @@
 
 ## Current project:
 xv6 in Rust 🦀️
+Parallel Computing in C++
 
 ## My Contributions
 
