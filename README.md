@@ -3,7 +3,9 @@
 ## Current project:
 xv6 in Rust 🦀️
 
-Parallel Computing in C++
+Parallel Computing in C++ 👷 🧑‍💼
+
+Animal X in three.js 🦝
 
 ## My Contributions
 
