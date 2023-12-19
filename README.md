@@ -5,7 +5,7 @@ xv6 in Rust 🦀️
 
 Parallel Computing in C++ 👷 🧑‍💼
 
-Animal X in three.js 🦝
+Animal Xing in three.js 🦝
 
 ## My Contributions
 
