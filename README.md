@@ -1,9 +1,6 @@
 # <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Alfred </h1>
 
 ## Current project:
-xv6 in Rust 🦀️
-
-Parallel Computing in C++ 👷 🧑‍💼
 
 Animal Xing in three.js 🦝
 
